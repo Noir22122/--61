@@ -1,0 +1,85 @@
+@media screen and (max-width: 768px) {
+    body {
+        font-size:1.5em;
+    }
+ }
+ 
+
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ .banner-img{
+    background-image: url(2022-11-09\ \(19\).png);
+    background-size: cover;
+    background-attachment: fixed;
+ }
+
+ .nav-item:hover{
+    border-bottom: 1px solid white;
+ }
+
+.about{
+   width: 100%;
+   height: 500px;
+   background-color: rgb(31, 31, 31);
+   color: white;
+}
+
+ .start{
+    width: 100%;
+    height: 600px;
+    background-image: url(rfhnf.jpg);
+ }
+
+ .map{
+    display: flex;
+    justify-content: center;
+ }
+
+.REVIEVS{
+    width: 100%;
+   height: 800px;
+}
+
+.end{
+   width: 100%;
+   height: 300px;
+   background-color: rgb(31, 31, 31);
+}
+
+.rar{
+   list-style-type: none;
+}
+
+.cl{
+   color: white;
+}
+
+.cll{
+   color: rgb(71, 71, 71);
+}
+
+
+.info{
+   display: flex;
+   justify-content: center;
+
+}
+
+.vk{
+   position: relative;
+   right: 20px;
+}
+
+.tg{
+   position: relative;
+   left: 20px;
+}
+
+.tmai{
+   height: 50px;
+   width: 100px;
+   border-bottom: 2px solid rgb(255, 255, 255);
+}
